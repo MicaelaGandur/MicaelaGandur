@@ -1,5 +1,4 @@
-<img src="file:///C:/Users/gandu/Downloads/Micaela-Gandur.jpg">
-
+[![Micaela-Gandur.jpg](https://i.postimg.cc/VvPKm3vg/Micaela-Gandur.jpg)](https://postimg.cc/qhQsGD86)
 
 ## *About me*
 
