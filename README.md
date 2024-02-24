@@ -9,10 +9,17 @@ I obtained my 5-year Bachelor's Degree in Physics at the National University of 
 ## *Skills*
 
 ■ Machine Learning and Images
+
 ■ Advanced Statistics, Calculus and Algebra
+
 ■ Data Modeling / Temporal Series / Data Cleaning
+
 ■ Business Analytics
+
 ■ Tableau
+
 ■ LaTex
+
 ■ Languages: Python / SQL / R / Fortran
+
 ■ Technologies: numpy / pandas / scikit-learn / opencv / scikit-image / matplotlib / seaborn / TensorFlow
