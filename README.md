@@ -17,8 +17,6 @@ I obtained my 5-year Bachelor's Degree in Physics at the National University of 
 
 ■ Tableau
 
-■ LaTex
-
 ■ Languages: Python / SQL / R / Fortran
 
 ■ Technologies: numpy / pandas / scikit-learn / opencv / scikit-image / matplotlib / seaborn / TensorFlow
